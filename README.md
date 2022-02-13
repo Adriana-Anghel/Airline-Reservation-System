@@ -21,7 +21,7 @@ Datele despre zboruri și utilizatori sunt stocate în baza de date SQL cu ajuto
 
 |ID|Email|Name|Password|
 |--|-----|----|--------| 
-|1|email@gamil.com|Name1|test1234|
+|1|email@gmail.com|name|test1234|
 
 |ID|From|To|Date|Duration|
 |--|----|--|----|--------| 
